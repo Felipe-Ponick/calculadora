@@ -39,9 +39,9 @@ ou acesse o [Spotify](https://spotify.com)
 
 #### Caixas de check
 
-- [ ] Fazer a tela de login
-- [ ] Cria a tela de calculo
-- [ ] Criar a tela de histórico
+- [x] Fazer a tela de login
+- [x] Cria a tela de calculo
+- [x] Criar a tela de histórico
 
 #### Tabelas
 
